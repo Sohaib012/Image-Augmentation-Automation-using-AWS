@@ -12,7 +12,6 @@ The cloud offers powerful serverless architectures for automation. This project 
 - **Bash Scripting**: Facilitates efficient bulk uploads to the S3 bucket.
 
 ## Architecture Diagram
-![Architecture Diagram Placeholder](#) *(Insert your architecture diagram here)*
 ![image](https://github.com/user-attachments/assets/b0838b09-0dc6-480e-94f2-dee8596b2180)
 
 ## Techniques and Configuration
